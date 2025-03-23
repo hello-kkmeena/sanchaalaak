@@ -1,0 +1,25 @@
+.store-selector {
+  min-width: 200px;
+}
+
+.store-select__control {
+  border-radius: 8px !important;
+  border-color: #ddd !important;
+}
+
+.store-select__menu {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
+}
+
+.store-select__option {
+  padding: 12px !important;
+}
+
+.store-select__option--is-selected {
+  background-color: #007AFF !important;
+}
+
+.store-select__option--is-focused {
+  background-color: #f0f2f5 !important;
+} 

@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.inventory-dashboard {
+  min-height: 100vh;
+  background-color: #f5f6fa;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-content {
+  flex: 1;
+  background-color: #f5f6fa;
+}
